@@ -1,3 +1,7 @@
+/*
+  Typescript ayarlarının yer aldığı dosya, typescript ile ilgili ayarları buradan yapabiliriz.
+  Typescript dosyalarını babel ile javascript'e çevirmek için gerekli
+*/
 {
   "compilerOptions": {
     "target": "es5",
